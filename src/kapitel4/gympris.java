@@ -1,3 +1,5 @@
+package kapitel4;
+
 import javax.swing.*;
 
 public class gympris {
