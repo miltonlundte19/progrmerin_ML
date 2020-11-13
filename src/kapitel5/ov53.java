@@ -7,9 +7,13 @@ public class ov53 {
         String hh = JOptionPane.showInputDialog("vilken höjd slepte du billen (i meter)");
         double h = Double.parseDouble(hh);
         h = h*100;
-        int stuts = 0
+        System.out.println(h);
+        int stuts = 0;
         while (h >= 1) {
-
+        h = h * 0.7;
+        System.out.println(h);
+        stuts++;
         }
+        JOptionPane.showMessageDialog(null,"bollen stutsade " + stuts + " gånger");
     }
 }
