@@ -1,4 +1,4 @@
-package kapitel6;
+package bok.kapitel6;
 
 import javax.swing.*;
 
