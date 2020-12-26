@@ -6,3 +6,4 @@ public class Telefon {
 		JOptionPane.showMessageDialog(null, "0725339519");
 	}
 }
+//-1

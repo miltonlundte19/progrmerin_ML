@@ -9,3 +9,4 @@ public class Hej2 {
 		JOptionPane.showMessageDialog(null, hälsning);
 	}
 }
+//-2

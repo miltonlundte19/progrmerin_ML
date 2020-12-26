@@ -10,3 +10,4 @@ public class StriNAT {
 		JOptionPane.showMessageDialog(null, s4);
 	}
 }
+//-2

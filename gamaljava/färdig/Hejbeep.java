@@ -7,3 +7,4 @@ public class Hejbeep {
 		Toolkit.getDefaultToolkit () .beep () ;
 	}
 }
+//-1

@@ -7,3 +7,4 @@ public class NaAdTe {
 		"\n" + "telefon:0725339519");
 	}
 }
+//-1

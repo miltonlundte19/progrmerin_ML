@@ -9,3 +9,4 @@ public class ovn22 {
 		JOptionPane.showMessageDialog(null, allas);
 	}
 }
+//-2

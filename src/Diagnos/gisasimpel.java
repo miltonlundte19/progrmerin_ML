@@ -7,7 +7,7 @@ public class gisasimpel {
     public static void main(String[] args) {
         double taldec;
         int talet;
-        int gis;
+        int gis = 1;
         taldec = Math.random()*100;
         talet = (int) taldec;
         boolean gisningen = true;

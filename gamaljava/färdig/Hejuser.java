@@ -5,3 +5,4 @@ public class Hejuser {
 		JOptionPane.showMessageDialog(null, "Hej " + System.getProperty("user.name") + "!");
 	}
 }
+//-1

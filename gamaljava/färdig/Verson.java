@@ -6,3 +6,4 @@ public class Verson {
 		+ System.getProperty("os.name") + " skall vara namnet pa det operativsystem som anvands.");	
 	}
 }
+//-1
