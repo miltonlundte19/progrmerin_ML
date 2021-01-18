@@ -11,7 +11,7 @@ public class ovn35 {
         imomsd = 1 - momsd;
         momspr  = var * momsd;
         varmm = var * imomsd;
-        JOptionPane.showMessageDialog(null, "");
+        JOptionPane.showMessageDialog(null, "varan katar " + varmm + "kr och momsen är " + momspr + "kr.");
 
     }
 }
