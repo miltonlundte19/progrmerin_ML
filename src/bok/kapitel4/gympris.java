@@ -1,7 +1,7 @@
 package bok.kapitel4;
 
 import javax.swing.*;
-
+//ovn42
 public class gympris {
     public static void main (String[] arg) {
         int visits = Integer.parseInt(JOptionPane.showInputDialog("hur m\u00e5nga g\u00e5nger planerar du att bes\u00f6ka gymet"));
