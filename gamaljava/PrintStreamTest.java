@@ -16,4 +16,13 @@ public class PrintStreamTest{
    fout.close();    
   System.out.println("Success?");    
  }    
-}    
+}
+
+
+
+
+String[] words = {};
+Random r = new Random();
+int randomnumber = R.nextInt(words.length);
+return woeds[randomnumber]
+
